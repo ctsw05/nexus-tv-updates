@@ -31,5 +31,3 @@ It's simply an unsigned application, which Windows treats
 as "potentially unsafe" by default.
 
 To verify: Upload the .exe to VirusTotal.com
-Most AVs will show it's clean. The few flags are heuristic
-false positives, not actual malware detection.
