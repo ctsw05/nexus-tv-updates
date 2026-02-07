@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "releaseDate": "2026-02-07",
-  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/v1.0.0/Nexus-TV-Setup-1.0.0.exe",
+  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/NexusTV-IPTV-PLAYER/Nexus.TV-Setup-1.0.0.exe",
   "releaseNotes": "Initial release of Nexus TV",
   "mandatory": false,
   "minimumVersion": "1.0.0"
