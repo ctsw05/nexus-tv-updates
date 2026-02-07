@@ -15,3 +15,21 @@ WINDOWS DEFENDER:
 3. Click "More info"
 4. Click "Run anyway"
 5. Follow installer
+These are normal behaviors for an IPTV player, but antivirus
+software can't tell the difference between this and malware
+without a digital signature.
+
+The app does NOT:
+❌ Steal your data
+❌ Install viruses
+❌ Access your files
+❌ Send information to third parties
+❌ Mine cryptocurrency
+❌ Encrypt your files
+
+It's simply an unsigned application, which Windows treats
+as "potentially unsafe" by default.
+
+To verify: Upload the .exe to VirusTotal.com
+Most AVs will show it's clean. The few flags are heuristic
+false positives, not actual malware detection.
