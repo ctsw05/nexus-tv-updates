@@ -31,3 +31,4 @@ It's simply an unsigned application, which Windows treats
 as "potentially unsafe" by default.
 
 To verify: Upload the .exe to VirusTotal.com
+<img width="3840" height="2088" alt="Screenshot 2026-02-07 011245" src="https://github.com/user-attachments/assets/2dbda08d-3694-4713-9406-3fae736cab63" />
