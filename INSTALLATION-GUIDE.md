@@ -44,7 +44,6 @@ These are **normal behaviors** for an IPTV player, but antivirus software can't 
 
 **Option 2: Check the Source Code**
 - All code is open source on GitHub
-- View exactly what the app does: [github.com/yourusername/nexus-tv](https://github.com/yourusername/nexus-tv)
 - No hidden or obfuscated code
 
 ---
@@ -53,7 +52,7 @@ These are **normal behaviors** for an IPTV player, but antivirus software can't 
 
 ### Step 1: Download
 Download `Nexus-TV-Setup-1.0.1.exe` from:
-- [GitHub Releases](https://github.com/yourusername/nexus-tv/releases/latest) (recommended)
+- [GitHub Releases([https://github.com/ctsw05/nexus-tv-updates/releases/tag/NexusTV-IPTV-PLAYER](https://github.com/ctsw05/nexus-tv-updates/releases/tag/NexusTV-IPTV-PLAYER))) (recommended)
 - Official website (if you have one)
 
 ### Step 2: Install (Windows Defender)
@@ -165,7 +164,7 @@ Everything is stored locally on your computer.
 ### What if I still don't trust it?
 
 That's totally fine! Security concerns are valid. Here's what you can do:
-1. Review the [source code on GitHub](https://github.com/yourusername/nexus-tv)
+1. Review the [source code on GitHub]
 2. Scan with [VirusTotal.com](https://www.virustotal.com/)
 3. Run in a virtual machine or Windows Sandbox first
 4. Ask technical questions in our [GitHub Issues](https://github.com/yourusername/nexus-tv/issues)
@@ -193,9 +192,8 @@ Try:
 
 ### Other Problems
 
-- **Report bugs:** [GitHub Issues](https://github.com/yourusername/nexus-tv/issues)
-- **Ask questions:** [GitHub Discussions](https://github.com/yourusername/nexus-tv/discussions)
-- **Check documentation:** [GitHub Wiki](https://github.com/yourusername/nexus-tv/wiki)
+- **Report bugs:** [GitHub Issues](https://github.com/ctsw05/nexus-tv/issues)
+- **Ask questions:** [GitHub Discussions](https://github.com/ctsw05/nexus-tv/discussions)
 
 ---
 
@@ -219,7 +217,7 @@ Once installed, you can:
 
 **Questions? Issues?**
 
-[GitHub Issues](https://github.com/yourusername/nexus-tv/issues) • [Documentation](https://github.com/yourusername/nexus-tv/wiki) • [Source Code](https://github.com/yourusername/nexus-tv)
+[GitHub Issues](https://github.com/ctsw05/nexus-tv/issues) • [Documentation](https://github.com/ctsw05/nexus-tv/wiki) • [Source Code](https://github.com/ctsw05/nexus-tv)
 
 **Thank you for using Nexus TV!** 📺
 
