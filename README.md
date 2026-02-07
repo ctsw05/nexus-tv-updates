@@ -444,6 +444,7 @@ Once installed, you can:
 
 **Thank you for using Nexus TV!** 📺
 <img width="3840" height="2088" alt="Screenshot 2026-02-07 011245" src="https://github.com/user-attachments/assets/b203e093-9c43-4fbe-ae0b-51f5bf27f17f" />
+<img width="3840" height="2088" alt="Screenshot 2026-02-07 013426" src="https://github.com/user-attachments/assets/848fb149-1560-4241-9026-1d013a14f63a" />
 
 
 </div>
