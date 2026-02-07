@@ -167,7 +167,7 @@ That's totally fine! Security concerns are valid. Here's what you can do:
 1. Review the [source code on GitHub]
 2. Scan with [VirusTotal.com](https://www.virustotal.com/)
 3. Run in a virtual machine or Windows Sandbox first
-4. Ask technical questions in our [GitHub Issues](https://github.com/yourusername/nexus-tv/issues)
+4. Ask technical questions in our [GitHub Issues](https://github.com/ctsw05/nexus-tv/issues)
 
 We have nothing to hide - all code is open source.
 
@@ -192,7 +192,7 @@ Try:
 
 ### Other Problems
 
-- **Report bugs:** [GitHub Issues](https://github.com/ctsw05/nexus-tv/issues)
+- **Report bugs:** [GitHub Issues]([https://github.com/ctsw05/nexus-tv/issues](https://github.com/ctsw05/nexus-tv-updates/issues))
 - **Ask questions:** [GitHub Discussions](https://github.com/ctsw05/nexus-tv/discussions)
 
 ---
