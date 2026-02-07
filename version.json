@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "releaseDate": "2026-02-07",
-  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/v1.0.1/Nexus-TV-Setup-1.0.1.exe",
+  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/NexusTV-IPTV-PLAYER/Nexus.TV-Setup-1.0.1.exe",
   "releaseNotes": "• Fixed persistent error messages\n• Improved update checker with GitHub integration\n• Enhanced error handling and logging\n• Fixed undefined function errors\n• Better stability and performance",
   "mandatory": false,
   "minimumVersion": "1.0.0"
