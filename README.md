@@ -1,2 +1,2 @@
 # nexus-tv-updates
-Update files for Nexus TV
+Update files for Nexus TV IPTV PLayer
