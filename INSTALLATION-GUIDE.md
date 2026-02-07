@@ -220,5 +220,6 @@ Once installed, you can:
 [GitHub Issues](https://github.com/ctsw05/nexus-tv/issues) • [Documentation](https://github.com/ctsw05/nexus-tv/wiki) • [Source Code](https://github.com/ctsw05/nexus-tv)
 
 **Thank you for using Nexus TV!** 📺
+![Uploading Screenshot 2026-02-07 011245.png…]()
 
 </div>
