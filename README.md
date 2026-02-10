@@ -1,4 +1,4 @@
-# 📺 NEXUS TV - INSTALLATION GUIDE
+# 📺 NEXUS IPTV PLAYER - INSTALLATION GUIDE
 
 ## Why Does Windows Block This App?
 
