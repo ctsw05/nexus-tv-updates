@@ -1,8 +1,8 @@
 {
-  "version": "1.0.2",
-  "releaseDate": "2026-02-07",
-  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/v1.0.2/Nexus.TV-Setup-1.0.2.exe",
-  "releaseNotes": "• Fixed persistent error messages\n• Improved update checker with GitHub integration\n• Enhanced error handling and logging\n• Fixed undefined function errors\n• Fixed TV Guide reminder button state not resetting\n• Better stability and performance",
+  "version": "1.0.5",
+  "releaseDate": "2026-02-10",
+  "downloadUrl": "https://github.com/ctsw05/nexus-tv-updates/releases/download/v1.0.5/Nexus.TV-Setup-1.0.5.exe",
+  "releaseNotes": "• Fixed channel loading - all channels now display correctly\n• Fixed hidden channels page functionality\n• Pluto TV now works in browser without Electron\n• EPG assignment per playlist support\n• Auto EPG updates every 12 hours\n• Comprehensive help documentation added\n• Improved playlist management\n• Enhanced stability and performance",
   "mandatory": false,
   "minimumVersion": "1.0.0"
 }
